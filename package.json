@@ -9,5 +9,14 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.4"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@vue/apollo-composable": "^4.0.0-alpha.18",
+    "graphql": "^16.5.0",
+    "graphql-tag": "^2.12.6",
+    "mdi": "^2.2.43",
+    "sass": "^1.53.0",
+    "vuetify": "^3.0.0-beta.5"
   }
 }
